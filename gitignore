@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# dotenv environment variables
+.env
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Tailwind and PostCSS build artifacts (optional)
+public/style.css
+
